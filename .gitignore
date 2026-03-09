@@ -14,3 +14,7 @@ debug/
 inference/
 models/*
 MOSS-RLHF/
+
+.github/
+tmp_*
+grpo_variants_research/
