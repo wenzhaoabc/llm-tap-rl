@@ -18,13 +18,6 @@
 - `8.LLM-RL.ipynb`：面向大语言模型后训练的 RL 方法综述，主要整理 PPO、DPO、GRPO 在 TRL 中的原理和最小实现方式。
 - `9.GRPO-Variants.ipynb`：GRPO 相关变体专题，按“改了 GRPO 的哪一层”来分类讲解 DAPO、Dr.GRPO、BNPO、CISPO、GSPO、GFPO、GAPO 等方法，并补充 TRL 支持情况与示意实现。
 
-推荐阅读顺序：
-
-1. `0.simple_rl.py` 和 `1.Qlearning.py`，建立最基本的强化学习直觉。
-2. `2.dqn.ipynb`、`2.DoubleDQN.ipynb`、`4.reinforce.ipynb`、`5.actor_critic.ipynb`，补齐值函数和策略梯度两条主线。
-3. `6.ppo.ipynb` 和 `7.grpo.ipynb`，理解大模型后训练里最关键的在线优化方法。
-4. `8.LLM-RL.ipynb` 和 `9.GRPO-Variants.ipynb`，把 RLHF、TRL 实现和 GRPO 变体联系起来。
-
 ## 参考资料
 
 参考书目包括：
